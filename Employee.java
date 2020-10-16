@@ -2,7 +2,7 @@ class Employee{
     
    int age;
    String name,city;
-
+   
    void display()
                  {
      System.out.println("the name is" + name);
